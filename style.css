@@ -315,7 +315,6 @@ header.sticky {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(120px, auto));
   gap: 3rem;
-  padding: auto;
 }
 
 .first-info img {
