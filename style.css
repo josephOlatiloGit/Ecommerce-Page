@@ -197,6 +197,7 @@ header.sticky {
 
 .heart-icon {
   position: absolute;
+  color: #979b98;
   right: 0;
   font-size: 20px;
 }
